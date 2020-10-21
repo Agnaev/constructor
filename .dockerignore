@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/.vs/
+/.vscode/
+/dist/
+/.cache/
+/.git/
+/.gitignore/
+Dockerfile
